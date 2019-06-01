@@ -88,8 +88,8 @@ a:hover {
 
 header img.logo {
 	margin-left: 20px;
-	position: relative;
-    top: 10px;
+	position: relative; /*added these*/
+    top: 10px; /*two properties*/
 }
 
 .top {
@@ -98,16 +98,6 @@ header img.logo {
    padding: 20px 0;
 }
 
-/*you are going to when to add a width to your class left and right
- group remember one side to the other side is 100% 
- 
- and you when to add font-size and remove or low margin-left right group
-  img and maybe the left to 
-  
-  and last thing    on text- about and text-features need display: 
-  inline-block on both 
-
-*/
 .left-group {
 	display: inline-block;
     margin-left: 30px;
@@ -118,8 +108,8 @@ header img.logo {
 
 .button-size {
 	font-size: 40%;
-	position: relative;
-    bottom: 35px;
+	position: relative; /* added these */
+    bottom: 35px;ls /* two properties*/
 }
 
 
